@@ -1,0 +1,16 @@
+body {
+    font-family: "Pretendard", sans-serif;
+    text-align: center;
+}
+
+.card {
+    width: 100px;
+}
+
+#cards-div {
+    transition: all 0.2s ease;
+}
+
+.filtered {
+    filter: grayscale(100%) blur(5px);
+}
